@@ -1,42 +1,42 @@
 {
-  "businessName": "NnaPrince Ventures",
+  "businessName": "Mr Simple Open Banking Co",
   "industry": "Fintech",
   "tone": "professional",
-  "tagline": "Your Trusted Partner in Financial Technology Solutions",
+  "tagline": "Seamless Banking Integration for Modern Nigerian Businesses",
   "sections": [
     {
       "id": "hero",
       "name": "Hero",
-      "copy": "NnaPrince Ventures - Empowering Financial Growth Through Innovation. Leading fintech solutions provider in Ngor Okpala, delivering secure, reliable, and accessible financial services to individuals and businesses across Nigeria. Experience seamless digital transactions, investment opportunities, and financial empowerment at your fingertips.",
-      "imagePrompt": "Modern Nigerian fintech office with glass windows, professionals working on laptops and mobile devices, vibrant blue and green color scheme, digital payment icons floating in the air, sleek contemporary design, bright natural lighting, Lagos skyline visible through windows, photorealistic 4K quality",
+      "copy": "Powering Financial Innovation Across Nigeria. Mr Simple Open Banking Co delivers enterprise-grade API solutions that connect your business to the future of digital finance. From card issuing to seamless payment integration, we provide the infrastructure that drives growth.",
+      "imagePrompt": "Modern Nigerian fintech office with large glass windows overlooking Lagos or Owerri cityscape, sleek computers displaying financial dashboards, young professional Nigerian developers collaborating, warm natural lighting, corporate blue and white color scheme, photorealistic, professional photography style",
       "layout": "centered"
     },
     {
       "id": "about",
       "name": "About Us",
-      "copy": "NnaPrince Ventures is a forward-thinking fintech company headquartered at Umudim Junction, Ohekelem in Ngor Okpala, Imo State. We specialize in providing innovative financial technology solutions that bridge the gap between traditional banking and modern digital finance. Our mission is to democratize access to financial services, making it easier for Nigerians to save, invest, transact, and grow their wealth securely. With a deep understanding of the Nigerian financial landscape and the unique needs of our local communities, we deliver tailored solutions that combine cutting-edge technology with trusted personal service. Whether you're an individual looking to manage your finances better or a business seeking efficient payment solutions, NnaPrince Ventures is your reliable partner in financial success.",
-      "imagePrompt": "Professional Nigerian business team in modern office setting, diverse group of young professionals in business attire discussing financial charts on large screen, warm lighting, wooden conference table, laptops and tablets visible, Imo State cultural elements subtly incorporated, confident and trustworthy atmosphere, photorealistic",
+      "copy": "Mr Simple Open Banking Co (operating as Mr Simple API Finance Limited) is a leading Nigerian fintech company headquartered in Ngor Okpala, Imo State. Led by experienced card issuer operations professionals, we specialize in open banking solutions that empower businesses to integrate sophisticated financial services into their platforms. Our API-first approach enables banks, fintechs, and enterprises across Nigeria to launch card programs, process payments, and deliver exceptional financial experiences to their customers. We combine deep industry expertise with cutting-edge technology to bridge the gap between traditional banking and digital innovation.",
+      "imagePrompt": "Professional Nigerian fintech team meeting in modern conference room, diverse group of executives reviewing financial reports on large screen, Ngor Okpala business district visible through windows, natural daylight, corporate setting, photorealistic, high-end business photography",
       "layout": "split"
     },
     {
       "id": "services",
       "name": "Our Services",
-      "copy": "Digital Payment Solutions: Secure and instant payment processing for businesses and individuals, enabling seamless transactions across multiple platforms.\n\nInvestment Advisory: Expert guidance on investment opportunities tailored to the Nigerian market, helping you grow your wealth strategically.\n\nMobile Banking Integration: Connecting traditional banking services with modern mobile technology for convenient access to your finances anytime, anywhere.\n\nBusiness Financial Management: Comprehensive financial tools and consulting services designed to help SMEs manage cash flow, track expenses, and optimize profitability.\n\nRemittance Services: Fast, affordable, and secure money transfer services within Nigeria and internationally, keeping families and businesses connected.\n\nFinancial Literacy Programs: Educational workshops and resources to empower our community with the knowledge needed to make informed financial decisions.",
-      "imagePrompt": "Split-screen collage showing various fintech services: Nigerian person using mobile banking app on smartphone, business owner reviewing digital payment dashboard on tablet, financial advisor presenting investment charts, money transfer animation with naira symbols, modern icons representing digital finance, clean professional design, blue and gold color palette, photorealistic",
-      "layout": "grid"
+      "copy": "Card Issuing Solutions: Launch branded debit and prepaid card programs with full regulatory compliance and real-time transaction monitoring.\n\nOpen Banking APIs: Secure, scalable APIs for account aggregation, payment initiation, and balance verification across multiple Nigerian banks.\n\nPayment Processing: End-to-end payment infrastructure supporting card payments, bank transfers, and digital wallet integration.\n\nCompliance & Operations: Expert card issuer operations management ensuring CBN compliance, fraud prevention, and seamless customer onboarding.\n\nAPI Integration Support: Comprehensive technical documentation, sandbox environments, and dedicated developer support for rapid integration.",
+      "imagePrompt": "Split-screen montage showing Nigerian ATM card being used at modern POS terminal, smartphone displaying banking API dashboard, secure server room with blue lighting, financial transaction animations, professional fintech aesthetic, photorealistic, corporate technology photography",
+      "layout": "cards"
     },
     {
       "id": "contact",
-      "name": "Contact Us",
-      "copy": "Ready to transform your financial future? Get in touch with NnaPrince Ventures today. Our team is available to answer your questions, provide personalized solutions, and guide you through our range of fintech services. Visit us at our office in Ngor Okpala or reach out via phone, email, or WhatsApp. We're committed to providing prompt, professional service to all our clients.\n\nOffice Location: Umudim Junction, Ohekelem, Ngor Okpala, Imo State, Nigeria\n\nOperating Hours: Monday - Friday: 8:00 AM - 5:00 PM | Saturday: 9:00 AM - 2:00 PM\n\nLet's build your financial success story together.",
-      "imagePrompt": "Modern Nigerian fintech office exterior at Umudim Junction, welcoming entrance with glass doors, NnaPrince Ventures signage, green landscaping, paved parking area, Imo State local architecture blended with contemporary design, people walking towards entrance, daytime clear sky, professional and inviting atmosphere, photorealistic",
+      "name": "Get Started",
+      "copy": "Ready to transform your financial services? Our team of card issuer operations experts is ready to design a solution tailored to your business needs. Whether you're launching a new fintech product or enhancing existing banking services, Mr Simple Open Banking Co provides the infrastructure and expertise you need to succeed in Nigeria's dynamic digital finance landscape.\n\nContact us today for a consultation and discover how our open banking solutions can accelerate your growth.",
+      "imagePrompt": "Modern Nigerian fintech office reception area with company branding, professional receptionist at sleek desk, comfortable waiting area with financial technology displays, glass doors showing Ngor Okpala business environment, warm professional lighting, photorealistic, corporate interior photography",
       "layout": "centered"
     }
   ],
   "contact": {
     "phone": "+234 706 165 6331",
-    "email": "info@nnaprince.com",
-    "address": "Umudim Junction, Ohekelem, Ngor Okpala, Imo State, Nigeria",
+    "email": "info@mrsimpleopenbanking.com",
+    "address": "Umudim Junction, Ohekelem Ngor Okpala, Imo State, Nigeria",
     "whatsapp": "https://wa.me/2347061656331"
   }
 }
